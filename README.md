@@ -8,7 +8,7 @@ Go to the frontend folder and run:
 ```shell
 npm run build
 ```
-Run with serv:
+Run with serve:
 ```shell
 serve -s dist
 ```
